@@ -1,2 +1,2 @@
 #!/bin/bash
- filt/tmp/iamfile
+file /tmp/iamfile
